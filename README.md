@@ -3,11 +3,10 @@
 
 <br />
 <p align="center">
-
+  <a>
     <img src="https://github.com/thota18411/UEL_Project_Data_Mining_Titktok/blob/main/DataAnalysis/tiktok.jpg" >
-
+  </a>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -28,7 +27,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The CyTshirt
+## About The Project
 TikTok là nền tảng video âm nhạc và mạng xã hội của Trung Quốc được ra mắt vào năm
 2017, dành cho các thị trường bên ngoài Trung Quốc, bởi Trương Nhất Minh, người sáng lập
 của ByteDance. Nó được sử dụng để tạo các video ca nhạc ngắn, hát nhép, khiêu vũ, hài kịch
